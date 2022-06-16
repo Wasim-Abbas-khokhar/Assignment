@@ -1,0 +1,19 @@
+{
+    "name": "assignment",
+    "version": "1.0.0",
+    "description": "",
+    "type": "module",
+    "main": "handler.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "devDependencies": {
+        "@babel/core": "^7.18.5",
+        "@babel/preset-env": "^7.18.2",
+        "aws-sdk": "^2.799.0",
+        "jest": "^26.6.3"
+    },
+    "keywords": [],
+    "author": "Wasim Abbas",
+    "license": "ISC"
+}

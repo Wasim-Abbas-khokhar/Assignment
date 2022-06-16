@@ -1,0 +1,6 @@
+{
+    "httpMethod": "GET",
+    "queryStringParameters":{
+        "sku": "HPX415896/42/97"
+    }
+}
